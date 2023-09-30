@@ -13,6 +13,8 @@ I have created numerous 🌐 Websites and 📱 Android applications that are cur
 
 ✅ I have technical expertise in On-page and Off-page SEO, WordPress, Content Writing, App Store optimization, Logo design, and Video editing.
 
+👉 Java, OOPs, DSA, MySQL, DBMS, JDBC, Java Swing, Spring Boot, JPA/Hibernate.
+
 Currently, I'm learning 🧑‍💻 Full stack web development at AccioJob.
 
-Java, OOPs, DSA, MySQL, DBMS, JDBC, Java Swing, Spring Boot, JPA/Hibernate.
+
